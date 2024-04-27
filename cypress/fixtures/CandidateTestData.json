@@ -1,0 +1,14 @@
+
+
+    {
+    "firstName": "Maria",
+    "middleName": "D",
+    "lastName": "Johnson",
+    "vacancy": "Senior QA Lead",
+    "emailId" : "Maria.Johnson@gmail.com",
+    "contactNumber": "+19046789977",
+    "fileName": "TestResume.pdf",
+    "Keywords": "Software Developer in Test",
+    "Notes": "Candidate is available to join immediately",
+    "Status": "Application Initiated"
+    }

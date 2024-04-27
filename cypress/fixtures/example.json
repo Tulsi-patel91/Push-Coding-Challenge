@@ -1,0 +1,24 @@
+[
+
+  {
+    "userName": "Admin",
+    "password": "admin123",
+    "expectedText": "Dashboard"
+  },
+
+  {
+    "userName": "Demo",
+    "password": "demo123",
+    "expectedText": "Dashboard"
+  },
+
+  {
+    "userName": "Dummy",
+    "password": "dummy123",
+    "expectedText": "Dashboard"
+  }
+
+
+
+]
+
